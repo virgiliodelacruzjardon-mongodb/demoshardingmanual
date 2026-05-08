@@ -1,6 +1,6 @@
 # MongoDB Demo sharding Manual
 
-Intended to be executed in Instruqt MDB Fundamentals VM or Linux Ubuntu 24.04.2 LTS
+Intended to be executed in Instruqt MDB Fundamentals VM or Linux Debian 12.13 
 
 The name of the database is testingsharding and the name of the collections are peoplemanual and peopleautomatic
 
